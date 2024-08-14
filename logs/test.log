@@ -1,0 +1,7 @@
+2024-08-14 17:59:59 INFO  TestVWOLogin - Starting Test in Test Environment
+2024-08-14 18:00:07 INFO  TestVWOLogin - Opening the URL
+2024-08-14 18:00:08 INFO  TestVWOLogin - Verifying the result
+2024-08-14 18:09:24 INFO  TestVWOLogin - Starting Test in Test Environment
+2024-08-14 18:09:32 INFO  TestVWOLogin - Opening the URL
+2024-08-14 18:09:32 INFO  TestVWOLogin - Verifying the result
+2024-08-14 18:09:36 INFO  TestVWOLogin - Successfully Ran TestVWOLogin Test!!!
